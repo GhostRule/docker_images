@@ -1,0 +1,1 @@
+FROM seldonio/ambassador-auth-service:1.1.1
