@@ -1,1 +1,1 @@
-FROM seldonio/ambassador-auth-service:1.1.1
+FROM seldonio/cluster-manager:0.2.5
