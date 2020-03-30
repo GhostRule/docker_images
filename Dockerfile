@@ -1,1 +1,1 @@
-FROM seldonio/cluster-manager:0.2.5
+FROM seldonio/seldon-core-s2i-python3:0.15
